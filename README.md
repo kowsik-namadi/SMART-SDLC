@@ -158,7 +158,7 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 For questions or feedback, reach out to:
-📧 **[himamanikantavasamsetty@gmail.com](mailto:himamanikantavasamsetty@gmail.com)**
+📧 **[kowsiknamadi@gamail.com](mailto:kowsiknamadi@gmail.com)**
 📱 **+91 7893606650**
 
 ````
