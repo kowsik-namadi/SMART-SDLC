@@ -151,7 +151,7 @@ This project is licensed under the MIT License.
 ## 🙋‍♂️ Author
 
 * **Hima Manikanta Vasamsetti**
-  [GitHub](https://github.com/manu-vasamsetti) | [LinkedIn](https://linkedin.com/in/hima-manikanta-vasamsetti-a5485427a)
+  [GitHub](https://github.com/kowsik-namadi) | [LinkedIn](https://linkedin.com/in/kowsik-namadi)
 
 ---
 
