@@ -1,4 +1,4 @@
-# 🚀 SmartSDLC – AI-Powered Software Development Lifecycle Assistant
+# 🚀 SMART-SDLC – AI-Powered Software Development Lifecycle Assistant
 
 SmartSDLC is an AI-enhanced platform that streamlines the entire Software Development Lifecycle (SDLC) using IBM Watsonx foundation models and modern web technologies.
 
@@ -38,7 +38,7 @@ It helps developers by:
 
 ```
 
-SmartSDLC/
+SMART-SDLC/
 ├── app/
 │   ├── main.py
 │   ├── routes/
@@ -78,8 +78,8 @@ WATSONX_API_URL=https://eu-de.ml.cloud.ibm.com
 ### 💡 1. Clone the Repo
 
 ```bash
-git clone https://github.com/manu-vasamsetti/SmartSDLC.git
-cd SmartSDLC
+git clone https://github.com/kowsik-namadi/SMART-SDLC.git
+cd SMART-SDLC
 ```
 
 ---
