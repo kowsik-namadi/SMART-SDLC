@@ -150,7 +150,7 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-* **Hima Manikanta Vasamsetti**
+* **KOWSIK NAMADI**
   [GitHub](https://github.com/kowsik-namadi) | [LinkedIn](https://linkedin.com/in/kowsik-namadi)
 
 ---
